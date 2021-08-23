@@ -17,3 +17,5 @@
 3. Inject the independency of taxRateTable to the function calculateEmployeeMonthlyPayslip, so that if the tax rate updated, only taxRateTable need to be changed. More maintainable and scalable.
 
 4. CamalCase naming convention, comments and documentations to make code more readable.
+
+5. Use yarn instead of npm because yarn is faster. 
