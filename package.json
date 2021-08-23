@@ -1,0 +1,20 @@
+{
+  "name": "employee-monthly-pay-slip",
+  "version": "1.0.0",
+  "description": "a console application that given employee annual salary details outputs a monthly pay slip",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "author": "Lipeng Niu",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.1.0",
+    "global": "^4.4.0",
+    "yarn": "^1.22.11"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
