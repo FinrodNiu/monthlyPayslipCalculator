@@ -1,3 +1,8 @@
+
+# Introducion #
+
+This is a console app to calculate monthly pay slip depends on annual income and tax rule.
+
 # Getting Started #
 
 1. Run `npm install -g yarn` in terminal to install yarn.
