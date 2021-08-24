@@ -1,4 +1,4 @@
-const {taxRateTable, inputRegexp, splitRegexp, calculateEmployeeMonthlyPayslip, validateInput, getInfo} = require('./employeeMonthlyPayslip');
+const {taxRateTable, inputRegexp, splitRegexp, calculateEmployeeMonthlyPayslip, validateInput, getInfo} = require('../src/employeeMonthlyPayslip');
 
 test('invalid input should throw an error', () => {
 	const invalidInputs = ['abc', 'abc "123" 456'];
