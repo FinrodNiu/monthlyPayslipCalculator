@@ -19,7 +19,7 @@ This is a console app to calculate monthly pay slip depends on annual income and
 
 2. Create multiple functions, each function has a single responsibility.
 
-3. Inject the independency of taxRateTable to the function calculateEmployeeMonthlyPayslip, so that if the tax rate updated, only taxRateTable need to be changed. More maintainable and scalable.
+3. Inject the dependency of taxRateTable to the function calculateEmployeeMonthlyPayslip, so that if the tax rate updated, only taxRateTable need to be changed. More maintainable and scalable.
 
 4. CamelCase naming convention, comments and documentations to make code more readable.
 
